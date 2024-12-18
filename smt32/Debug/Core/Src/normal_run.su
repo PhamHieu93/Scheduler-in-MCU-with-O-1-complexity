@@ -1,0 +1,7 @@
+normal_run.c:14:6:red_1	8	static
+normal_run.c:21:6:green_1	8	static
+normal_run.c:29:6:yellow_1	8	static
+normal_run.c:37:6:red_2	8	static
+normal_run.c:45:6:green_2	8	static
+normal_run.c:53:6:yellow_2	8	static
+normal_run.c:60:6:dot_blinky	8	static
